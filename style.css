@@ -212,14 +212,14 @@ body {
   padding: 0.5rem 1rem;
 }
 
-.feed-h4 {
+.feed-h3 {
   padding: 0.5rem 1rem;
   color: var(--DB);
   font-weight: 700;
   cursor: pointer;
 }
 
-.feed-h4:hover{
+.feed-h3:hover{
   color: var(--LG);
 }
 
@@ -477,7 +477,7 @@ width: 150px;
     width: 100%;
   }
 
-  .feed-h4{
+  .feed-h3{
     text-align: start;
   }
 
